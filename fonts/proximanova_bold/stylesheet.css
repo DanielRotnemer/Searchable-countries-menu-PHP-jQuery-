@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'proxima_novasemibold';
-    src: url('http://localhost/utilities/fonts/webfontkit-20191222-152720/fontsfree-net-proxima-nova-sbold-webfont.woff2') format('woff2'),
-         url('http://localhost/utilities/fonts/webfontkit-20191222-152720/fontsfree-net-proxima-nova-sbold-webfont.woff') format('woff');
+    src: url('fontsfree-net-proxima-nova-sbold-webfont.woff2') format('woff2'),
+         url('fontsfree-net-proxima-nova-sbold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
