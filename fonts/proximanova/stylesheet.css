@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'proxima_novaregular';
-    src: url('http://localhost/utilities/fonts/webfontkit-20191221-200850/proximanova-regular-webfont.woff2') format('woff2'),
-         url('http://localhost/utilities/fonts/webfontkit-20191221-200850/proximanova-regular-webfont.woff') format('woff');
+    src: url('proximanova-regular-webfont.woff2') format('woff2'),
+         url('proximanova-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
